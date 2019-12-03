@@ -1,0 +1,882 @@
+
+
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "Sadbhavna",
+    "description": "Bus Stop"
+  },
+  "geometry": {
+    "coordinates": [
+       70.833545,22.814672
+    ],
+    "type": "Point"
+  },
+  "id": "b49a178319f490eac5446ac6a47ca1bd"
+},
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "Shashtri Medan",
+    "description": "pull over river",
+    "weblink": "http://www.globalwebadvisors.com/360web/UGA360/connerhall"
+  },
+  "geometry": {
+    "coordinates": [
+       72.925670,22.552494
+    ],
+    "type": "Point"
+  },
+  "id": "3535355df325b362a54cd01cbecba302"
+},
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "Town Hall",
+    "description": "pull over river",
+    "weblink": "http://www.globalwebadvisors.com/360web/UGA360/connerhall"
+  },
+  "geometry": {
+    "coordinates": [  
+      72.950988,22.553442
+    ],
+    "type": "Point"
+  },
+  "id": "3535355df325b362a54cd01cbecba302"
+},
+{
+    "type": "Feature",
+    "properties": {
+      "Name": "Aderhold IB",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/34%20Aderhold%20IB%20to%20Plant%20Science/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.372757,
+        33.941379
+      ],
+      "type": "Point"
+    },
+    "id": "4e12028672893ecb982898ad5d62a0fe"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Aderhold OB",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/33%20Aderhold%20OB/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.373238,
+        33.941285
+      ],
+      "type": "Point"
+    },
+    "id": "54a33b207b2520868dca295897599781"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Broad Street Studios",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/3%20Broad%20Street%20Studios/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.378394,
+        33.956908
+      ],
+      "type": "Point"
+    },
+    "id": "06835183f492e7082756bbc9df3a25e7"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Business Services Annex",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/8%20Business%20Services%20Annex/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.373326,
+        33.957076
+      ],
+      "type": "Point"
+    },
+    "id": "821b23ebb5b1533b6ae5727a08ae8955"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+        "Name": "Chemistry",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/chemistry"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.374287,
+            33.947973
+        ],
+        "type": "Point"
+    },
+    "id": "b58b19f3ddfd16f4419b5180b2cc9bae"
+},
+{
+    "type": "Feature",
+    "properties": {
+        "Name": "Conner Hall",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/connerhall"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.373235,
+            33.947495
+        ],
+        "type": "Point"
+    },
+    "id": "4827ecfe3b2ebbb8df5620b624513b6e"
+},
+{
+    "type": "Feature",
+    "properties": {
+        "Name": "Correll Hall",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/correllhall"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.376692,
+            33.952542
+        ],
+        "type": "Point"
+    },
+    "id": "30c1dc996cde890e1b688f2e7405797f"
+},
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Coverdell Center",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/21%20Coverdell%20Center/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.376067,
+        33.941465
+      ],
+      "type": "Point"
+    },
+    "id": "886e36ded7639b0ad19f26f6a1fed416"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+        "Name": "Creswell Hall (Cloverhurst)",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/creswellhallcloverhurst"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.380171,
+            33.949146
+        ],
+        "type": "Point"
+    },
+    "id": "107e41c95c447a6456cd27eb5e97849a"
+},
+{"type": "Feature","properties": {"Name": "Creswell Hall (Finley)","description": "Bus Stop","weblink": "http://www.globalwebadvisors.com/360web/UGA360/cresswellhallfinley"},
+   "geometry": {"coordinates": [-83.380507,33.949557],"type": "Point"},"id": "c2e5d452dab1cfb95c7c525d139ba93b"},
+   {
+    "type": "Feature",
+    "properties": {
+      "Name": "Driftmier Engineering Center (to Carlton St)",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/19%20Driftmier%20Engineering%20Center%20to%20Carlton%20St/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.37627,
+        33.939423
+      ],
+      "type": "Point"
+    },
+    "id": "6b405e9a923b3ef45c1ee52d80a3f12a"
+  },{
+    "type": "Feature",
+    "properties": {
+      "Name": "Driftmier Engineering Center(Family&Grad Housing)",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/20%20Driftmier%20Engineering%20Center%20to%20Family%20and%20Grad%20Housing/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.376409,
+        33.939422
+      ],
+      "type": "Point"
+    },
+    "id": "3313910aaba3abb45e1ffeb17105b654"
+  },
+   
+   
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "E Campus Rd @ Studio 51",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/14%20E%20Campus%20Rd%20at%20Studio%2051/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.378687,
+        33.931161
+      ],
+      "type": "Point"
+    },
+    "id": "d6bd014fd3bd0371ab45af4e09f1fd6e"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Family and Grad Housing Bldg F",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/16%20Family%20and%20Grad%20Housing%20Bldg%20F/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.375136,
+        33.935216
+      ],
+      "type": "Point"
+    },
+    "id": "7d52caea3ab3bb55bce63111a3408568"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Family and Grad Housing Bldg G",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/15%20Family%20and%20Grad%20Housing%20Bldg%20G/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.375913,
+        33.933843
+      ],
+      "type": "Point"
+    },
+    "id": "9081fcff58cf419f9f508405d0d767cd"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Family and Grad Housing Bldg K",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/18%20Family%20and%20Grad%20Housing%20Bldg%20K/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.373527,
+        33.936363
+      ],
+      "type": "Point"
+    },
+    "id": "590a41e4592f40cea8e17fed9cbfabab"
+  },
+  {
+    "type": "Feature",
+    "properties": {"Name": "Food Science","description": "Bus Stop","weblink": "http://www.globalwebadvisors.com/360web/UGA360/foodscience"},
+    "geometry": {"coordinates": [-83.371877,33.9456],"type": "Point"},
+    "id": "06b371f3cf3c5cfb43cc3bc877b6dd95"
+},
+{
+    "type": "Feature",
+    "properties": {"Name": "Georgia Center OB","description": "Bus Stop","weblink": "http://www.globalwebadvisors.com/360web/UGA362/28%20Georgia%20Center%20OB/"},
+    "geometry": {"coordinates": [  -83.37703711962341,33.944559372723035],"type": "Point"},
+    "id": "06b371f3cf3c5cfb43cc3bc877b6dd95"
+},
+{
+    "type": "Feature",
+    "properties": {
+      "Name": "Gilbert Hall",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/1%20Gilbert%20Hall/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.376388,
+        33.955145
+      ],
+      "type": "Point"
+    },
+    "id": "1e112ecd3e4f222a0bc8de819d00288b"
+  },
+
+  {
+    "type": "Feature","properties": {"Name": "Greek Park (Northbound)","description": "Bus Stop","weblink": "http://www.globalwebadvisors.com/360web/UGA360/greekparknorthbound"},
+    "geometry": {"coordinates": [-83.371069,33.945361],"type": "Point"},
+    "id": "0795bc845dff162badaafa8637147e6b"
+},
+
+{
+    "type": "Feature",
+    "properties": {
+        "Name": "Greek Park(SouthBound)",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/greekparksouthbound"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.371286,
+            33.94567
+        ],
+        "type": "Point"
+    },
+    "id": "a75cc1490716a985902b3a782ae02639"
+},
+
+{
+    "type": "Feature",
+    "properties": {
+      "Name": "Jackson St Building",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/11%20Jackson%20St%20Building/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.372987,
+        33.954817
+      ],
+      "type": "Point"
+    },
+    "id": "e5b86ce0d2a352439ee507334765ab62"
+  },
+
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Lumpkin St @ Rutherford St ",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/25%20Lumpkin%20St%20at%20Rutherford%20St%20to%20Five%20Points/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.384548,
+        33.942347
+      ],
+      "type": "Point"
+    },
+    "id": "85e6802006822e5357f19646f84fc5fb"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Lumpkin St @ Wray St",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/2%20Lumpkin%20St%20at%20Wray%20St/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.376562,
+        33.955491
+      ],
+      "type": "Point"
+    },
+    "id": "76ded835f59e1550b4268dc7f980f06d"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+        "Name": "Memorial Hall",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/memorialhall/"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.374073,
+            33.95127
+        ],
+        "type": "Point"
+    },
+    "id": "6727e10a662987b6033a26ba3350484b"
+},
+{
+    "type": "Feature",
+    "properties": {
+      "Name": "Multi-modal Transportation Center",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/5%20Multimodal%20Transportation%20Center/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.370465,
+        33.959684
+      ],
+      "type": "Point"
+    },
+    "id": "eae3bb0995323fa0fa707b7dc96a7a92"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+        "Name": "Oglethorpe House (East)",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/oglethorpehouseeast"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.379196,
+            33.947534
+        ],
+        "type": "Point"
+    },
+    "id": "62525d9fe76246961eeeaf2c198cc5a4"
+},
+{
+    "type": "Feature",
+    "properties": {
+        "Name": " Oglethorpe House (West)",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/oglethorpehousewest"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.379036,
+            33.947656
+        ],
+        "type": "Point"
+    },
+    "id": "978c61e6a4005d2c25cdcdc10939e734"
+},
+
+ {
+    "type": "Feature",
+    "properties": {
+        "Name": "Physics (northbound)",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/physicsnorthbound"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.376861,
+            33.948346
+        ],
+        "type": "Point"
+    },
+    "id": "86d44edd0561f194737d44425717629c"
+},
+{
+    "type": "Feature",
+    "properties": {
+        "Name": "Physics(SouthBound)",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/physicssouthbound"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.376869,
+            33.947927
+        ],
+        "type": "Point"
+    },
+    "id": "74d9756c405eaf866a74df173a27efe1"
+},
+{
+    "type": "Feature",
+    "properties": {
+      "Name": "Plant Sciences",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/32%20Plant%20Sciences/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.375082,
+        33.941966
+      ],
+      "type": "Point"
+    },
+    "id": "26ab67478ef7b39bfab8047752f30880"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Presbyterian Center",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/23%20Presbyterian%20Center/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.380875,
+        33.944181
+      ],
+      "type": "Point"
+    },
+    "id": "bdcbc1af958b05db8e1f89e1e75f9527"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+        "Name": "Psychology & Journalism",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/psycologyjournalism/"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.373197,
+            33.951998
+        ],
+        "type": "Point"
+    },
+    "id": "59c0597348c8ce009ab19eae0876a22f"
+},
+{"type": "Feature","properties": {"Name": " River Mill (Southbound)","description": "Bus Stop","weblink": "http://www.globalwebadvisors.com/360web/UGA360/rivermillnorthsouth"},
+    "geometry": {"coordinates": [-83.371196,33.95244],"type": "Point"},
+    "id": "003ccf7a646e85920dad476abc76ee35"
+},
+{
+    "type": "Feature",
+    "properties": {
+        "Name": "River Mill (Northbound)",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/rivermillnorthsouth"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.371188,
+            33.952329
+        ],
+        "type": "Point"
+    },
+    "id": "bbff79d47ebb485b2494b4930aeeab8f"
+},
+{
+    "type": "Feature",
+    "properties": {
+        "Name": "Russell Hall",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/russellhall"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.381321,
+            33.949281
+        ],
+        "type": "Point"
+    },
+    "id": "b7c5feebc3ecd716e85439778a286821"
+},
+{
+    "type": "Feature",
+    "properties": {
+        "Name": "Rutherford Hall",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/rutherfordhalllumpkin/"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.377111,
+            33.947635
+        ],
+        "type": "Point"
+    },
+    "id": "7ea13045a07c00ab31dfac76981d7a64"
+},
+{
+    "type": "Feature",
+    "properties": {
+      "Name": "Rutherford Street 5 South",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/24%20Rutherford%20Street%205%20South/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.384767,
+        33.942082
+      ],
+      "type": "Point"
+    },
+    "id": "4dcf5e354a7ba960018bccd17c6c1095"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Science Learning Center",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/30%20Science%20Learning%20Center2/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.377463,
+        33.943162
+      ],
+      "type": "Point"
+    },
+    "id": "afdadec11b83b81be4b48c8f6bc00ba3"
+  },  
+  {
+    "type": "Feature","properties": {"Name": "Snelling Dining Hall IB","description": "Bus Stop","weblink": "http://www.globalwebadvisors.com/360web/UGA362/29%20Snelling%20Dining%20Hall%20IB/"
+    },
+    "geometry": {"coordinates": [
+        -83.376691,
+        33.944859
+      ],"type": "Point"},
+    "id": "4eb3f91c690b31e1b8c81add794cb0d7"
+  },{
+    "type": "Feature",
+    "properties": {
+      "Name": "Soule Hall IB",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/26%20Soule%20Hall%20IB2/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.376236,
+        33.946123
+      ],
+      "type": "Point"
+    },
+    "id": "0863991478a6d1b588b02b12037ea1b1"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Soule Hall OB",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/28%20Georgia%20Center%20OB/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.376306,
+        33.946336
+      ],
+      "type": "Point"
+    },
+    "id": "a23da02a9cf30c5e68ddd54a59380ad9"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Special Collection Library",
+      "description": "Library",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/4%20Special%20Collection%20Library/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.378146,
+        33.954043
+      ],
+      "type": "Point"
+    },
+    "id": "799ba50ebb177077dce56034f28e3807"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Staff Training and Development (Northbound)",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/7%20Staff%20Training%20and%20Development%20Northbound/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.37152,
+        33.954988
+      ],
+      "type": "Point"
+    },
+    "id": "2b127b6c21066bbc5694a72f3bfb9821"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Staff Training and Development (Southbound)",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/6%20Staff%20Training%20and%20Development%20Southbound/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.371643,
+        33.95494
+      ],
+      "type": "Point"
+    },
+    "id": "8ee9f84ecb6651b7820936c71ec5516f"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+        "Name": "Statistics",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/statistics"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.372396,
+            33.945637
+        ],
+        "type": "Point"
+    },
+    "id": "3cc10eecc257d1fee07b019637e0859c"
+},
+{
+    "type": "Feature",
+    "properties": {
+      "Name": "Stegman Coliseum",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/31%20Stegman%20Coliseum/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.376983,
+        33.942486
+      ],
+      "type": "Point"
+    },
+    "id": "5f07eb9c2a2cada5d58b3ffbe9788a06"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Tanner Building",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/12%20Tanner%20Building/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.373118,
+        33.957019
+      ],
+      "type": "Point"
+    },
+    "id": "33dae381007a64222a5e8e201f8a08e6"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+        "Name": "Tate Center",
+        "description": "Bus Stop",
+        "weblink": "http://www.globalwebadvisors.com/360web/UGA360/memorialhall/"
+    },
+    "geometry": {
+        "coordinates": [
+            -83.374296,
+            33.950915
+        ],
+        "type": "Point"
+    },
+    "id": "5a9281f979d473c084a6b29ef317a950"
+},
+{
+    "type": "Feature",
+    "properties": {
+      "Name": "Tucker Hall (Northbound)",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/35%20Tucker%20Hall%20Northbound/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.370757,
+        33.942361
+      ],
+      "type": "Point"
+    },
+    "id": "3faba311889cbbb79cea556f028c0b1d"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Tucker Hall (Southbound)",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/36%20Tucker%20Hall%20Southbound/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.371065,
+        33.942287
+      ],
+      "type": "Point"
+    },
+    "id": "ae032446d6c349aee52bb132152c9348"
+  },
+
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "UGA Human Resources",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/9%20UGA%20Human%20Resources/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.373563,
+        33.95652
+      ],
+      "type": "Point"
+    },
+    "id": "0b2ad8adb09292e2cc7fafeaaa66e4ee"
+  },    {
+    "type": "Feature",
+    "properties": {
+      "Name": "UGA Library IB",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/37%20UGA%20Library%20IB/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.373073,
+        33.954959
+      ],
+      "type": "Point"
+    },
+    "id": "2504a450f478c834b23f99a49596bc5a"
+  },    {
+    "type": "Feature",
+    "properties": {
+      "Name": "UGA Main Library",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/10%20UGA%20Main%20Library2/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.373199,
+        33.954761
+      ],
+      "type": "Point"
+    },
+    "id": "82adfbb54793ea28f20fa2a14d265c40"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "University Health Center (East Campus Rd.)",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/17%20University%20Health%20Center%20East%20Campus%20Rd/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.373353,
+        33.936349
+      ],
+      "type": "Point"
+    },
+    "id": "c72e6c1354c4460e5e459d7c5008398d"
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Veterinary Medicine (DW Brooks Dr)",
+      "description": "Bus Stop",
+      "weblink": "http://www.globalwebadvisors.com/360web/UGA362/22%20Veterinary%20Medicine%20DW%20Brooks%20Dr/"
+    },
+    "geometry": {
+      "coordinates": [
+        -83.375957,
+        33.941346
+      ],
+      "type": "Point"
+    },
+    "id": "b21a9c318ee0a67035bbb97b8ec3b6c0"
+  },

@@ -1,0 +1,572 @@
+@media only screen 
+and (min-width : 1224px) {
+/* for laptop screen view */
+body {
+  margin:0;
+  padding:0;
+}
+#map {
+  position:absolute;
+  top:0;
+  bottom:0;
+  width:100%;
+}
+#ActionBtn{
+  position:absolute;
+  width: 20%;
+top: 5%;
+}
+#status
+{
+  display: none;
+}
+
+.duration {
+  font-size: 2em;
+}
+
+.marker {
+  display: block;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 0;
+}
+
+.btn {
+border: none; /* Remove borders */
+color: white; /* Add a text color */
+padding: 14px 28px; /* Add some padding */
+cursor: pointer; /* Add a pointer cursor on mouse-over */
+border-radius:10px;
+font-family: Tahoma;
+font-size: 15px;
+
+}
+#container {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 300px;
+border: 1px solid black; /* for demo purposes */
+}
+
+.box1 {
+width: 300px;
+margin: 5px;
+text-align: center;
+}
+
+
+.success {background-color: #BA0C2F;} /* Green */
+.success:hover {background-color: #BA0C2F;}
+
+
+
+.mapboxgl-map {
+font: 0px/20px 'Tahoma';
+overflow: hidden;
+position: relative;
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.mapboxgl-ctrl.mapboxgl-ctrl-attrib,
+.mapboxgl-ctrl-bottom-left
+{
+  display: none;
+}
+
+
+
+.box {
+position: absolute;
+top: 60%;
+left:50%;
+transform: translate(-50%, -50%);
+/* width: 50%;*/
+}
+
+.box select {
+/* background-color: #0563af;*/
+color: black;
+padding: 8px;
+/*width: 500%;*/
+border: 1px solid rgb(209, 204, 204);
+margin-top: 15px;
+border-radius: 10px;
+font-size: 15px;
+box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+-webkit-appearance: button;
+appearance: button;
+outline: none;
+font-family: Tahoma;
+
+}
+
+.box:hover::before {
+color: rgba(255, 255, 255, 0.6);
+background-color: rgba(255, 255, 255, 0.2);
+}
+
+.box select option {
+padding: 30px;
+}
+
+.mapboxgl-popup-content
+{
+  border-radius: 10px;
+}
+
+}
+
+@media only screen 
+and (min-width : 1440px) {
+/* for Desktop screen size is higher than 1440px screen view */
+
+body {
+  margin:0;
+  padding:0;
+}
+#map {
+  position:absolute;
+  top:0;
+  bottom:0;
+  width:100%;
+}
+#ActionBtn{
+  position:absolute;
+  width: 45%;
+top: 5%;
+}
+#status
+{
+  display: none;
+}
+
+.duration {
+  font-size: 2em;
+}
+
+
+.marker {
+  display: block;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 0;
+}
+
+.btn {
+border: none; /* Remove borders */
+color: white; /* Add a text color */
+padding: 14px 28px; /* Add some padding */
+cursor: pointer; /* Add a pointer cursor on mouse-over */
+border-radius:10px;
+font-family: Tahoma;
+font-size: 15px;
+
+}
+#container {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 300px;
+border: 1px solid black; /* for demo purposes */
+}
+
+.box1 {
+width: 300px;
+margin: 2px;
+text-align: center;
+}
+
+#bluebox {
+background: none;
+}
+.success {background-color: #BA0C2F;} /* Green */
+.success:hover {background-color: #BA0C2F;}
+
+.info {background-color: #2196F3;} /* Blue */
+.info:hover {background: #0b7dda;}
+
+
+.info2 {background-color: #dab662;} /* Orange */
+.info2:hover {background: #e68a00;}
+
+.mapboxgl-map {
+font: 0px/20px 'Tahoma';
+overflow: hidden;
+position: relative;
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.mapboxgl-ctrl.mapboxgl-ctrl-attrib,
+.mapboxgl-ctrl-bottom-left
+{
+  display: none;
+}
+
+
+
+.box {
+position: absolute;
+top: 10%;
+left:20%;
+transform: translate(-50%, -50%);
+/* width: 50%;*/
+}
+
+.box select {
+/* background-color: #0563af;*/
+color: black;
+padding: 8px;
+/*width: 500%;*/
+border: none;
+border-radius: 10px;
+
+font-size: 15px;
+box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+-webkit-appearance: button;
+appearance: button;
+outline: none;
+font-family: Tahoma;
+
+}
+
+.box:hover::before {
+color: rgba(255, 255, 255, 0.6);
+background-color: rgba(255, 255, 255, 0.2);
+}
+
+.box select option {
+padding: 30px;
+}
+
+}
+
+
+@media only screen 
+and (min-device-width : 481px) 
+and (max-device-width : 1223px) 
+{
+/* for mobile screen view */
+
+
+  body {
+    margin:0;
+    padding:0;
+  }
+  #map {
+    position:absolute;
+    top:0;
+    bottom:0;
+    width:100%;
+  }
+  #ActionBtn{
+    position:absolute;
+    width: 140%;
+top: 9%;
+  }
+  #status
+  {
+    display: none;
+  }
+
+  .duration {
+    font-size: 2em;
+  }
+  
+
+  .marker {
+    display: block;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+  }
+
+.btn {
+  border: none; /* Remove borders */
+  color: white; /* Add a text color */
+  padding: 14px 28px; /* Add some padding */
+  cursor: pointer; /* Add a pointer cursor on mouse-over */
+  border-radius:10px;
+  font-family: Tahoma;
+  font-size: 15px;
+/*margin-left: 7%;*/
+
+}
+
+.success {background-color: #BA0C2F;} /* Green */
+.success:hover {background-color: #BA0C2F;}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  border: 1px solid black; /* for demo purposes */
+}
+
+.box1 {
+  width: 300px;
+  margin: 5px;
+  text-align: center;
+  font-size:24px;
+}
+
+.mapboxgl-map {
+  font: 0px/20px 'Tahoma';
+  overflow: hidden;
+  position: relative;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  }
+
+  .mapboxgl-ctrl.mapboxgl-ctrl-attrib,
+  .mapboxgl-ctrl-bottom-left
+  {
+    display: none;
+  }
+
+
+
+.box {
+  position: absolute;
+  top: 8%;
+  left:12%;
+  transform: translate(-50%, -50%);
+ /* width: 50%;*/
+}
+
+.box select {
+ /* background-color: #0563af;*/
+  color: black;
+  padding: 8px;
+  /*width: 500%;*/
+  border: none;
+  border-radius: 10px;
+
+  font-size: 15px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  -webkit-appearance: button;
+  appearance: button;
+  outline: none;
+  font-family: Tahoma;
+
+}
+
+.box:hover::before {
+  color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.box select option {
+  padding: 30px;
+}
+
+}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) 
+{
+/* for mobile screen view */
+
+
+  body {
+    margin:0;
+    padding:0;
+  }
+  #map {
+    position:absolute;
+    top:0;
+    bottom:0;
+    width:100%;
+  }
+  #ActionBtn{
+    position:absolute;
+    width: 105%;
+    top: 10%;
+  }
+  #status
+  {
+    display: none;
+  }
+
+  .duration {
+    font-size: 2em;
+  }
+  
+
+  .marker {
+    display: block;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+  }
+
+.btn {
+  border: none; /* Remove borders */
+  color: white; /* Add a text color */
+  padding: 14px 28px; /* Add some padding */
+  cursor: pointer; /* Add a pointer cursor on mouse-over */
+  border-radius:10px;
+  font-family: Tahoma;
+  font-size: 15px;
+/*margin-left: 7%;*/
+
+}
+
+.success {background-color: #BA0C2F;} /* Green */
+.success:hover {background-color: #BA0C2F;}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  border: 1px solid black; /* for demo purposes */
+}
+
+.box1 {
+  width: 300px;
+  margin: 5px;
+  text-align: center;
+  font-size:24px;
+}
+
+.mapboxgl-map {
+  font: 0px/20px 'Tahoma';
+  overflow: hidden;
+  position: relative;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  }
+
+  .mapboxgl-ctrl.mapboxgl-ctrl-attrib,
+  .mapboxgl-ctrl-bottom-left
+  {
+    display: none;
+  }
+
+
+
+.box {
+  position: absolute;
+  top: 10%;
+  left:35%;
+  transform: translate(-50%, -50%);
+ /* width: 50%;*/
+}
+
+.box select {
+ /* background-color: #0563af;*/
+  color: black;
+  padding: 8px;
+  /*width: 500%;*/
+  border: none;
+  border-radius: 10px;
+
+  font-size: 15px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  -webkit-appearance: button;
+  appearance: button;
+  outline: none;
+  font-family: Tahoma;
+
+}
+
+.box:hover::before {
+  color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.box select option {
+  padding: 30px;
+}
+
+}
+.mapboxgl-popup-content
+{
+  border-radius: 10px;
+}
+
+.mapboxgl-popup-close-button {
+  display: none;
+}
+.mapbox-directions-profile label{
+  padding: 3px 0px !important;
+  width: 49%;
+  font-size: 15px;
+}
+
+/* for display instruction icon view */
+
+.img-icon{
+  background-repeat: no-repeat;
+  background-image: url(img/mapbox.directions.png);
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+}
+.img-icon.straight{
+  background-position: 10px 5px;
+}
+.img-icon.slight.right{
+  background-position: -36px 5px;
+}
+.img-icon.turn.right{
+  background-position: -74px 5px;
+}
+.img-icon.slight.right{
+  background-position: -113px 5px;
+}
+.img-icon.turn.uturn{
+  background-position: -157px 5px;
+}
+.img-icon.slight.left{
+  background-position: -198px 5px;
+}
+.img-icon.turn.left{
+  background-position: -234px 5px;
+}
+.img-icon.slight.left{
+  background-position: -271px 5px;
+}
+.img-icon.depart{
+  background-position: -313px 5px;
+}
+.img-icon.round{
+  background-position: -354px 5px;
+}
+.img-icon.arrive{
+  background-position: -395px 5px;
+}
+.img-icon.cross{
+  background-position: -432px 5px;
+}
+.img-icon.block{
+  background-position: -472px 5px;
+}
+.img-icon.stop{
+  background-position: -514px 5px;
+}
+.instruction{
+  display: flex;
+}
+.instruction p{
+  margin: 15px 10px;
+}
+
+.box1 p
+{
+  font-size: 20px;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 15%;
+  margin-inline-end: 15%;
+}
